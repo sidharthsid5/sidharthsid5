@@ -14,12 +14,22 @@
 
 💡 Tools & Technologies:
 
-    Languages: Python, Dart (Flutter), JavaScript, SQL
+Programming Languages
+Java JavaScript Python PHP
 
-    Frameworks: TensorFlow, scikit-learn, Flask, Django, Node.js, Flutter
+Front-End Development
+HTML5 CSS3 React Flutter
 
-    Databases: MySQL, PostgreSQL, MongoDB
+Back-End Development
+Node.js Laravel
 
-    Cloud Services: AWS, Google Cloud
+Databases
+MySQL Firebase
+
+Version Control & DevOps
+Git GitHub
+
+Tools & Technologies
+Visual Studio Code Postman Linux
 
 🚀 I'm always eager to work on projects that challenge my skills and contribute to innovative solutions. Feel free to connect with me, collaborate, or check out my repositories!
