@@ -2,11 +2,11 @@
 
 🔍 Specialties:
 
-    Data Science: Data preprocessing, predictive modeling, exploratory data analysis (EDA), machine learning, and deep learning.
+ Data Science: Data preprocessing, predictive modeling, exploratory data analysis (EDA), machine learning, and deep learning.
 
-    Backend Development: Designing and implementing RESTful APIs, working with databases (SQL/NoSQL), and building scalable backend solutions.
+ Backend Development: Designing and implementing RESTful APIs, working with databases (SQL/NoSQL), and building scalable backend solutions.
 
-    Mobile Development: Creating cross-platform mobile applications using Flutter to provide smooth, responsive user experiences.
+ Mobile Development: Creating cross-platform mobile applications using Flutter to provide smooth, responsive user experiences.
 
 🌐 Notable Projects:
 
