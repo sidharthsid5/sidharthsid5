@@ -10,7 +10,7 @@
 
 🌐 Notable Projects:
 
-    Cancer Healthline Portal: Developed a comprehensive platform for cancer patients, including tools for information sharing, patient support, and treatment tracking. Focused on implementing predictive models for early detection and personalized treatment plans.
+   Cancer Healthline Portal: Developed a comprehensive platform for cancer patients, including tools for information sharing, patient support, and treatment tracking. Focused on implementing predictive models for early detection and personalized treatment plans.
 
 💡 Tools & Technologies:
 
